@@ -20,7 +20,7 @@ Through creating this application, I quickly discovered the Facebook Business SD
 ### Installing
 
 * Clone the repository: 
-   git clone https://github.com/your-username/your-repository.git
+   git clone https://github.com/GoldRino456/Facebook-Ads-Report-Automation
 
    Alternatively, download and extract the ZIP file of the repository from GitHub.
 
