@@ -3,7 +3,7 @@
 ## Description
 A console application that retrieves Facebook campaign data, exports data into an excel document, and does basic formatting. Search criteria can be tweaked to include or exclude additional fields, limit search to a specified date range, and include multiple ad accounts.
 
-This was created to assist in defining campaign performance metrics, mainly by retriving campaign data in bulk and taking a lot of the headache out of formatting correctly for excel.
+This was created to assist in defining campaign performance metrics, mainly by retrieving campaign data in bulk and taking a lot of the headache out of formatting correctly for excel.
 
 Through creating this application, I quickly discovered the Facebook Business SDK for Python (as well as Facebook's API in general) can be rather confusing at first glance (especially for newer developers), so I hope this at the very least helps someone else better understand how to work with Facebook's API. :)
 
